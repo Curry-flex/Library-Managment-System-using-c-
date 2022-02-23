@@ -1,0 +1,20 @@
+c:\users\hca\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\bin\Debug\Library Managment System.pdb
+c:\users\hca\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\bin\Debug\DevComponents.DotNetBar2.dll
+c:\users\hca\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\bin\Debug\DevComponents.DotNetBar2.xml
+c:\users\hca\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library_Managment_System.Form1.resources
+c:\users\hca\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library_Managment_System.Form2.resources
+c:\users\hca\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library_Managment_System.Properties.Resources.resources
+c:\users\hca\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library_Managment_System.user.resources
+c:\users\hca\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library Managment System.csproj.GenerateResource.Cache
+c:\users\hca\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library Managment System.pdb
+c:\users\hca\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library_Managment_System.Addbooks.resources
+c:\users\hca\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library_Managment_System.DisplayBooks.resources
+c:\users\hca\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library_Managment_System.student.resources
+c:\users\hca\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library_Managment_System.Displaystudent.resources
+c:\users\hca\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library_Managment_System.issueBook.resources
+C:\Users\HCA\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library_Managment_System.Returnboo.resources
+C:\Users\HCA\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library_Managment_System.Stock.resources
+C:\Users\HCA\documents\visual studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library_Managment_System.LOGIN.resources
+C:\Users\HCA\Documents\Visual Studio 2015\Projects\Library Managment System\Library Managment System\bin\Debug\Library Managment System.exe.config
+C:\Users\HCA\Documents\Visual Studio 2015\Projects\Library Managment System\Library Managment System\bin\Debug\Library Managment System.exe
+C:\Users\HCA\Documents\Visual Studio 2015\Projects\Library Managment System\Library Managment System\obj\Debug\Library Managment System.exe
